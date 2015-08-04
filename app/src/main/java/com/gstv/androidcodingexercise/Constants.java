@@ -9,5 +9,5 @@ public class Constants {
     public static final String BASE_TAG = "ace-";
 
     public static final String FLICKR_API_KEY = "";
-    public static final String BASE_FLICKR_API = "https://api.flickr.com/services/rest/";
+    public static final String FRAG_PICTURE = "picture";
 }
