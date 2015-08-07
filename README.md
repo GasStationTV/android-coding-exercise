@@ -1,14 +1,19 @@
-# android-coding-exercise
-#TODO: Create a Flickr app api key for use in your app: https://www.flickr.com/services/api/keys/
-#TODO: Using Android Studio, implement app functionality
+# GSTV Android Coding Exercise
 
-A basic app skeleton has been provided that needs completion. 
+1. [Overview](#overview)
+1. [System Requirements](#system-requirements)
+1. [Getting Started](#getting-started)
 
-Class PictureGridFragment should interface with the ActionBar SearchBar component to search the Flickr Photo' API,
-then upon returning a list of photos, populate thumbnails of the photos into the gridView container.
+## Overview
+Build us something using the Flickr API, we would like to be able to search and browse pictures. Included is a basic app skeleton and some stub components you can use or toss out completely, your choice. We do however have some expectations regarding your use of source control (Git) and your environment (Android Studio).
 
-Clicking on a photo thumbnail should show the LargePictureFragment, where a larger version of the Flickr Photo should be shown.
+## System Requirements
+We use Git extensively at GSTV, so being comfortable working with a distributed version control system is a must.
+On Android Studio, we feel that the modern tools recommended by Google for Android development are far and way better than the old toolset, that means you should get comfortable reading and modifying Gradle build scripts.
 
-DiskLruMediaCache class should be used to cache Flickr Photos on disk for fast re-access times.
+## Getting Started
+Create a Flickr app API key for use in your app: https://www.flickr.com/services/api/keys/
+We stored our key in the Constants.java class (actually it's just an empty string in our repository), but you could put it in another place if you wish.
+You can get Android Studio directly from Google if you don't already have it: http://developer.android.com/sdk/index.html
+Next you should fork our repo, clone it to your machine, open it in Android Studio and get started. Making feature commits along the way to your eventual finish is good etiquette. When you are finished, push your changes up to Github and submit a pull request (https://help.github.com/articles/using-pull-requests/).
 
-A sample LoginActivity class has been provided as an extra challenge to demonstrate user login and authentication.
