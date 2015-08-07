@@ -17,5 +17,8 @@ Create a Flickr app API key for use in your app: https://www.flickr.com/services
 We stored our key in the Constants.java class (actually it's just an empty string in our repository), but you could put it in another place if you wish.
 
 You can get Android Studio directly from Google if you don't already have it: http://developer.android.com/sdk/index.html
-Next you should fork our repo, clone it to your machine, open it in Android Studio and get started. Making feature commits along the way to your eventual finish is good etiquette. When you are finished, push your changes up to Github and submit a pull request (https://help.github.com/articles/using-pull-requests/).
+
+Next you should fork our repo, clone it to your machine, open it in Android Studio and get started. Making feature commits along the way to your eventual finish is good etiquette.
+
+When you are finished, push your changes up to Github and submit a pull request (https://help.github.com/articles/using-pull-requests/).
 
