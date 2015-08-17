@@ -4,4 +4,9 @@
     <string name="action_settings">Settings</string>
     <string name="search_flickr">Search Flickr</string>
     <string name="search_hint">search by userid</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_full_size_image">FullSizeImageActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_display_full_size_image">DisplayFullSizeImage</string>
+    <string name="title_activity_full_size_image_display">FullSizeImageDisplay</string>
 </resources>

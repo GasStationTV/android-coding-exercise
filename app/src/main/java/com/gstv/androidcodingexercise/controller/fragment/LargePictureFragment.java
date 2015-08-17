@@ -27,5 +27,6 @@ public class LargePictureFragment extends Fragment {
 
     @Override public View onCreateView(LayoutInflater inflater, ViewGroup parent, Bundle savedInstance) {
         //TODO: implement method
+        return null;
     }
 }
