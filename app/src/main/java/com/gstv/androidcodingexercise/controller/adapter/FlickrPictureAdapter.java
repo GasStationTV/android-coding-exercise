@@ -43,7 +43,7 @@ public class FlickrPictureAdapter extends BaseAdapter {
     }
 
     @Override public View getView(int position, View convertView, ViewGroup parent) {
-        View cellView;
-        return cellView;
+//        return cellView;
+        return null;
     }
 }
